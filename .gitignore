@@ -1,3 +1,4 @@
 node_modules
 sol-company/.vitepress/cache
 .env
+sol-company/.vitepress/dist/
