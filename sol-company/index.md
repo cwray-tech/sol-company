@@ -12,11 +12,11 @@ hero:
       link: mailto:contact@sol.company
 
 features:
-  - title: Security
+  - title: Our Apps are Secure
     details: We take security seriously and ensure your data is safe.
-  - title: User Friendly
+  - title: Our Apps are User Friendly
     details: Our apps are designed to be easy to use and intuitive.
-  - title: Privacy
+  - title: Your Data is Private
     details: We respect your privacy and do not sell your data.
     
 ---

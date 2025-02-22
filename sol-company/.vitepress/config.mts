@@ -12,5 +12,20 @@ export default defineConfig({
       dark: "/logo-white.png",
       alt: "Sol Company Logo",
     },
+    footer: {
+      message: "Like the Sun.",
+      copyright: "Copyright © 2017-present Sol Company",
+    },
   },
+  head: [
+    ["link", { rel: "icon", href: "/logo.png" }],
+    ["meta", { property: "og:title", content: "Sol Company" }],
+    ["meta", { property: "og:description", content: "Like the Sun." }],
+    ["meta", { property: "og:image", content: "/sol-company-og.png" }],
+    ["meta", { property: "og:image:type", content: "image/png" }],
+    ["meta", { property: "og:image:width", content: "1200" }],
+    ["meta", { property: "og:image:height", content: "630" }],
+    ["meta", { name: "twitter:card", content: "summary_large_image" }],
+    ["meta", { name: "twitter:image", content: "/sol-company-og.png" }],
+  ],
 });
