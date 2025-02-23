@@ -19,6 +19,9 @@ export default defineConfig({
       message: "Like the Sun.",
       copyright: "Copyright © 2017-present Sol Company",
     },
+    search: {
+      provider: "local",
+    },
   },
   head: [
     ["link", { rel: "icon", href: "/logo.png" }],
