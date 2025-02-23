@@ -6,7 +6,10 @@ export default defineConfig({
   description: "A Mobile App and Software Company",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [{ text: "Home", link: "/" }],
+    nav: [
+      { text: "Home", link: "/" },
+      { text: "About", link: "/about/" },
+    ],
     logo: {
       light: "/logo-black.png",
       dark: "/logo-white.png",
@@ -28,4 +31,5 @@ export default defineConfig({
     ["meta", { name: "twitter:card", content: "summary_large_image" }],
     ["meta", { name: "twitter:image", content: "/sol-company-og.png" }],
   ],
+  cleanUrls: true,
 });
