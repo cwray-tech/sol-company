@@ -1,4 +1,4 @@
 node_modules
-sol-company/.vitepress/cache
+.vitepress/cache
 .env
-sol-company/.vitepress/dist/
+.vitepress/dist/
