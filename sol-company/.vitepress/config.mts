@@ -8,7 +8,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "About", link: "/about/" },
+      { text: "About", link: "/about" },
+      { text: "Apps", link: "/apps" },
     ],
     logo: {
       light: "/logo-black.png",
