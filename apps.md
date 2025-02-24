@@ -8,7 +8,7 @@ layout: doc
 
 Todo List is a simple mobile app that allows users to create and manage a list of tasks. Users can add and delete tasks, as well as mark tasks as complete. All data is stored locally on the user's device.
 
-[Todo List Website](https://todo-list.sol.company.com)
+[Todo List Website](https://todo-list.sol.company)
 
 ## NurseryPeople.com
 
