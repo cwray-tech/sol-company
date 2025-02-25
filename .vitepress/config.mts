@@ -18,7 +18,7 @@ export default defineConfig({
     },
     footer: {
       message: "Like the Sun.",
-      copyright: "Copyright © 2017-present Sol Company",
+      copyright: "Copyright © 2017-present Soltech LLC DBA Sol Company",
     },
     search: {
       provider: "local",
