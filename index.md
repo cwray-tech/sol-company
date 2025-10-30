@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Sol Company, by Soltech LLC"
+  name: "Soltech LLC"
   text: "A Mobile App and Software Company"
   tagline: Look out for our apps and software.
   actions:
